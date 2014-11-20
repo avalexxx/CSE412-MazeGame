@@ -1,0 +1,120 @@
+moved right
+moved right
+moved right
+moved right
+moved right
+moved down
+moved left
+moved down
+moved down
+moved down
+reached dead end, moved up
+moved left
+moved up
+moved up
+moved left
+moved left
+moved left
+moved down
+moved down
+moved down
+moved right
+moved up
+reached dead end, moved down
+reached dead end, moved left
+reached dead end, moved up
+reached dead end, moved up
+moved right
+moved right
+moved down
+moved down
+moved right
+moved down
+moved down
+moved down
+reached dead end, moved up
+reached dead end, moved up
+moved left
+moved left
+moved left
+moved down
+moved down
+moved down
+moved down
+moved right
+moved right
+moved right
+moved right
+moved right
+moved right
+reached dead end, moved left
+reached dead end, moved left
+reached dead end, moved left
+reached dead end, moved left
+reached dead end, moved left
+reached dead end, moved left
+reached dead end, moved up
+reached dead end, moved up
+reached dead end, moved up
+moved right
+moved right
+moved down
+moved left
+moved down
+moved right
+moved right
+moved right
+moved right
+moved right
+moved up
+moved right
+moved up
+moved right
+moved down
+reached dead end, moved up
+reached dead end, moved left
+reached dead end, moved down
+moved down
+moved down
+moved right
+moved up
+moved right
+moved up
+moved up
+moved up
+moved left
+moved left
+moved up
+moved up
+moved left
+moved down
+moved left
+moved down
+moved left
+moved down
+moved down
+moved right
+moved up
+moved right
+moved up
+reached dead end, moved down
+reached dead end, moved left
+reached dead end, moved down
+reached dead end, moved left
+reached dead end, moved up
+reached dead end, moved up
+reached dead end, moved right
+reached dead end, moved up
+reached dead end, moved right
+reached dead end, moved up
+reached dead end, moved right
+reached dead end, moved down
+reached dead end, moved down
+reached dead end, moved right
+reached dead end, moved right
+reached dead end, moved down
+reached dead end, moved down
+reached dead end, moved down
+reached dead end, moved left
+reached dead end, moved down
+moved right
